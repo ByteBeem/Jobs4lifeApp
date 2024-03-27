@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "cli": {
     "version": ">= 7.1.1"
@@ -6,13 +7,16 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal"
-    },
+    }
+  }
+=======
+{
+  "cli": {
+    "version": ">= 7.1.2"
+  },
+  "build": {
     "preview": {
       "distribution": "internal"
-    },
-    "production": {}
-  },
-  "submit": {
-    "production": {}
+    }
   }
-}
+>>>>>>> branch 'main' of https://github.com/ByteBeem/Jobs4lifeApp
