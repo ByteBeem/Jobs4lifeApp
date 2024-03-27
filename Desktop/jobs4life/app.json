@@ -21,11 +21,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.jpeg",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.bytebeem041.jobs4life"
     },
     "web": {
       "favicon": "./assets/logo.jpeg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6c7b5ab-ab89-47fc-b772-60e98211e139"
+      }
     }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1942885588113990~4893300618"
   }
-  
 }
